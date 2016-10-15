@@ -1,0 +1,8 @@
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\bin\Debug\PCeditor.exe.config
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\bin\Debug\PCeditor.exe
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\bin\Debug\PCeditor.pdb
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Debug\PCeditor.csprojResolveAssemblyReference.cache
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Debug\PCeditor.csproj.GenerateResource.Cache
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Debug\PCeditor.exe
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Debug\PCeditor.pdb
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Debug\PCeditor.editor.resources
