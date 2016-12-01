@@ -1,0 +1,7 @@
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Release\PCeditor.editor.resources
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Release\PCeditor.csproj.GenerateResource.Cache
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Release\PCeditor.exe
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\bin\Release\PCeditor.exe.config
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\bin\Release\PCeditor.exe
+C:\Users\Donna\Documents\SharpDevelop Projects\PCeditor\PCeditor\obj\Release\PCeditor.memorystresstest.resources

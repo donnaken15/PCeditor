@@ -1,4 +1,4 @@
-﻿#pragma warning disable 0169, 0414, anyothernumber
+﻿#pragma warning disable 0169, 0414
 using System;
 using System.Windows.Forms;
 namespace PCeditor
